@@ -1,7 +1,7 @@
 # Kanban API
 
 ## Overview
-This API perfroms CRUD operations on a collection of boards and cards that can be used for populating a Kanban Board for a front-end web application.
+This API performs CRUD operations on a collection of boards and cards that can be used for populating a Kanban Board for a front-end web application.
 
 ## Routes
 - GET            /boards
